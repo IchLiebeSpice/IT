@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+f:\games\it done in vs\consoleapplication1\consoleapplication1\consoleapplication1.cpp(11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+f:\games\it done in vs\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): warning C4305: инициализация: усечение из "double" в "float"
+  ConsoleApplication1.vcxproj -> F:\games\IT done in VS\ConsoleApplication1\Debug\ConsoleApplication1.exe
