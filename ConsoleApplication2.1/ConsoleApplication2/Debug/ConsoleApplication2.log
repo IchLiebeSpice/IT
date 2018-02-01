@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+n:\2 семестр\consoleapplication2\consoleapplication2\consoleapplication2.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+n:\2 семестр\consoleapplication2\consoleapplication2\consoleapplication2.cpp(15): warning C4305: '=': truncation from 'double' to 'float'
+n:\2 семестр\consoleapplication2\consoleapplication2\consoleapplication2.cpp(16): warning C4305: '=': truncation from 'double' to 'float'
+n:\2 семестр\consoleapplication2\consoleapplication2\consoleapplication2.cpp(17): warning C4305: '=': truncation from 'double' to 'float'
+  ConsoleApplication2.vcxproj -> N:\2 семестр\ConsoleApplication2\Debug\ConsoleApplication2.exe
